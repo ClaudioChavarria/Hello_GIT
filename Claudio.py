@@ -1,4 +1,4 @@
 "Don Claudio de Jesus"
-"GIT TEST"
-import pandas as pd
-import matplotlib.pyplot 
+"GIT TEST"  
+import sklean as sk
+"vamos a desarrollar una maquina de soporte vectorial"
